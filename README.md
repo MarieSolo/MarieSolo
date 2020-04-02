@@ -1,0 +1,2 @@
+# MarieSolo
+Python project
